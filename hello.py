@@ -1,4 +1,3 @@
-i
-print("Hello World")i
+print("Hello World")
 print("Tell Your World"
 print("Tell his World"))
